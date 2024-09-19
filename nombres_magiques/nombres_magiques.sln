@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nombres_magiques", "nombres_magiques\nombres_magiques.csproj", "{7009F297-E961-4F4C-A5EA-51D3378A40E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7009F297-E961-4F4C-A5EA-51D3378A40E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7009F297-E961-4F4C-A5EA-51D3378A40E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7009F297-E961-4F4C-A5EA-51D3378A40E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7009F297-E961-4F4C-A5EA-51D3378A40E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44BC5977-A231-45BA-B862-4A560C296E7A}
+	EndGlobalSection
+EndGlobal
